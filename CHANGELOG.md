@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.2.5]
+
+- Add xcode script back and skip it when building simulator target.
+  - [de422da](https://github.com/tauri-apps/tauri-mobile/commit/de422daecb6fe1cc0f45fcdd12d0119be4bd666f) Add xcode script back and skip it when building simulator target ([#108](https://github.com/tauri-apps/tauri-mobile/pull/108)) on 2023-02-22
+
 ## \[0.2.4]
 
 - Allow to update repo with a specific branch.
